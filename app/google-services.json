@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898651783116",
+    "project_id": "passwordand",
+    "storage_bucket": "passwordand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898651783116:android:6a179dfa7de10764776769",
+        "android_client_info": {
+          "package_name": "com.xthread.passwordandgmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898651783116-a36ql4hid97rslnj0rf02pvomr52r03i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xthread.passwordandgmail",
+            "certificate_hash": "7786ee91c5d48fbe8e322018e3e26201ac0c322a"
+          }
+        },
+        {
+          "client_id": "898651783116-is57f3d7unk5t2cafcv0rod9pnkmj7ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdBhjp0cr-RhER72rOKXMUv4VQCCO70UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898651783116-is57f3d7unk5t2cafcv0rod9pnkmj7ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
